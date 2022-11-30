@@ -1,0 +1,28 @@
+@media (prefers-color-scheme: dark) {
+
+    /* Re-assign previous variables */
+    body {
+        color: white;
+        background-color: black;
+        text-decoration: none;
+    }
+
+    :link {
+        color: #0000EE;
+    }
+
+    :visited {
+        color: #551A8B;
+    }
+
+    :link:active,
+    :visited:active {
+        color: #FF0000;
+    }
+
+    :link,
+    :visited {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
