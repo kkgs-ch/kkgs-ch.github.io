@@ -1,3 +1,60 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 95vw;
+}
+
+.button {
+    width: 13vw;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.box .feature1 {
+    flex: 1;
+    display: block;
+    min-width: 32vw;
+    width: 32vw;
+    padding: 35px 15px 35px 15px;
+    border-style: none;
+}
+
+/* Make header font larger */
+.feature1 h2 {
+    font-size: 120%;
+}
+
+/* 성당소개 표 스타일 */
+#homepage_info dt {
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+}
+
+#footer .impression {
+    flex: 1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 45vw;
+    width: 45vw;
+    padding: 15px;
+    border-style: solid none none none;
+}
+
+#footer .impression p {
+    text-align: center
+}
+
 @media (prefers-color-scheme: dark) {
 
     /* Re-assign previous variables */
@@ -24,5 +81,62 @@
     :visited {
         text-decoration: underline;
         cursor: pointer;
+    }
+}
+
+/* For mobile devices */
+@media (max-device-width: 957px) {
+
+    /* Increase font size */
+    body {
+        font-size: 5vw;
+    }
+
+    .box {
+        display: flex;
+        flex-direction: column
+    }
+
+    /* Arrange paragraphs vertically, add border and padding. Make font larger */
+    .box .feature1 {
+        flex: 1;
+        display: block;
+        min-width: 95vw;
+        width: 95vw;
+        padding: 35px 35px 35px 35px;
+        border-style: none none solid none;
+    }
+
+    /* Make header font larger */
+    .feature1 h2 {
+        font-size: 120%;
+    }
+
+    .button {
+        width: 30vw;
+    }
+
+    /* Make the Google map wider */
+    .feature1 iframe {
+        width: 90vw;
+        height: 90vw;
+        /* TODO make the font larger in google map 
+		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
+    }
+
+    #footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #footer .impression {
+        flex: 1;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 95vw;
+        width: 95vw;
+        padding: 15px;
+        border-style: solid none none none;
     }
 }

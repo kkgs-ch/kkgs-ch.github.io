@@ -9,22 +9,19 @@
 
 <body>
     <div id="header">
-        <div class="box">
-            <!-- start logo -->
-            <div id="logo">
-                <picture>
-                    <source srcset="images/logo_dark.png" media="(prefers-color-scheme: dark)">
-                    <img src="images/logo.png">
-                </picture>
-            </div>
-            <div id="advent">
-                <picture>
-                    <!-- image source: https://www.rawpixel.com/image/5947729/free-public-domain-cc0-photo -->
-                    <source srcset="images/advent_dark.jpg" media="(prefers-color-scheme: dark)">
-                    <!-- image source: https://www.rawpixel.com/image/5943695/free-public-domain-cc0-photo -->
-                    <img src="images/advent.jpg">
-                </picture>
-            </div>
+        <div id="logo">
+            <picture>
+                <source srcset="images/logo_dark.png" media="(prefers-color-scheme: dark)">
+                <img src="images/logo.png" class="logo">
+            </picture>
+        </div>
+        <div id="advent">
+            <picture>
+                <!-- image source: https://www.rawpixel.com/image/5947729/free-public-domain-cc0-photo -->
+                <source srcset="images/advent_dark.jpg" media="(prefers-color-scheme: dark)">
+                <!-- image source: https://www.rawpixel.com/image/5943695/free-public-domain-cc0-photo -->
+                <img src="images/advent.jpg" class="logo">
+            </picture>
         </div>
     </div>
 
@@ -42,7 +39,7 @@
                         <a href="https://wa.me/41792042352">
                             <picture>
                                 <source srcset="images/whatsapp_dark.png" media="(prefers-color-scheme: dark)">
-                                <img src="images/whatsapp.png" alt="Chat on WhatsApp">
+                                <img src="images/whatsapp.png" alt="Chat on WhatsApp" class="button">
                             </picture>
                         </a>
                     </dd>
@@ -53,7 +50,7 @@
                     <dt>미사일정:</dt>
                     <dd>매달 2, 4 주 주일 오후 3시</dd>
                 </dl>
-                <p>*형제, 자매 여러분 환영합니다! 자세한 사항은 미사 일정표를 참조하세요.</p>
+                <p>*형제, 자매 여러분 환영합니다! <br /> 자세한 사항은 미사 일정표를 참조하세요.</p>
             </div>
             <div class="feature1">
                 <h2>Upcoming Events</h2>
@@ -64,18 +61,19 @@
                     <li>
                         <a href="pdf/2023.pdf">2023 미사일정 (pdf)</a>
                     </li>
-                    <li>
-                        <iframe
-                            src="https://calendar.google.com/calendar/embed?src=kkgs.ch%40gmail.com&ctz=Europe%2FZurich"
-                            style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-                    </li>
                 </ul>
+                <iframe src="https://calendar.google.com/calendar/embed?src=kkgs.ch%40gmail.com&ctz=Europe%2FZurich"
+                    style="border: 0" width="295" height="295" frameborder="0" scrolling="no"></iframe>
             </div>
             <div class="feature1 last">
                 <h2>찾아오시는 길</h2>
                 <p><b>주소:</b> Werdstrasse 63, 8004 Zürich, Schweiz </p>
-                <p><b>찾아오시는 길:</b> Zürich 중앙역 앞에서 Triemli 방향, 14번 Tram, Werd 에서 하차, Zürich Bellevue에서 Heuried 방향, 9번
-                    Tram, Werd 에서 하차하면 됩니다. </p>
+                <dl>
+                    <dt>Zürich 중앙역 앞에서</dt>
+                    <dd>Triemli 방향, 14번 Tram, Werd 에서 하차</dd>
+                    <dt>Zürich Bellevue에서</dt>
+                    <dd>Heuried 방향, 9번 Tram, Werd 에서 하차</dd>
+                </dl>
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.040209779829!2d8.525518651225585!3d47.372133679067574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a1c8346e2a3%3A0xe75fb1d4001bf9da!2sPfarrei+St.+Peter+und+Paul!5e0!3m2!1sen!2sch!4v1484509527841"
                     width="295" height="295" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -84,13 +82,11 @@
         </div>
 
         <div id="footer">
-            <div class="box">
-                <div id="footer_left">
-                    © 2022 | 스위스 취리히 한인 천주교회
-                </div>
-                <div id="footer_right">
-                    koreanische katholische Kirchgemeinde Schweiz: CH8409000000855730112
-                </div>
+            <div class="impression">
+                <p>© 2022 | 스위스 취리히 한인 천주교회</p>
+            </div>
+            <div class="impression">
+                <p>koreanische katholische Kirchgemeinde Schweiz: CH8409000000855730112</p>
             </div>
         </div>
 
