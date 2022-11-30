@@ -15,17 +15,17 @@
     flex-direction: row;
 }
 
-.box .feature1 {
+.box .feature {
     flex: 1;
     display: block;
-    min-width: 32vw;
-    width: 32vw;
-    padding: 35px 15px 35px 15px;
-    border-style: none;
+    min-width: 28vw;
+    width: 31vw;
+    padding: 15px;
+    border-style: none none solid none;
 }
 
 /* Make header font larger */
-.feature1 h2 {
+.feature h2 {
     font-size: 120%;
 }
 
@@ -35,23 +35,7 @@
     font-weight: bold;
 }
 
-#footer {
-    display: flex;
-    flex-direction: row;
-}
-
-#footer .impression {
-    flex: 1;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    min-width: 32vw;
-    width: 32vw;
-    padding: 15px;
-    border-style: solid none none none;
-}
-
-#footer .impression p {
+#footer .feature p {
     text-align: center
 }
 
@@ -93,50 +77,29 @@
     }
 
     .box {
-        display: flex;
         flex-direction: column
     }
 
     /* Arrange paragraphs vertically, add border and padding. Make font larger */
-    .box .feature1 {
-        flex: 1;
-        display: block;
+    .box .feature {
         min-width: 95vw;
         width: 95vw;
-        padding: 35px 35px 35px 35px;
-        border-style: none none solid none;
-    }
-
-    /* Make header font larger */
-    .feature1 h2 {
-        font-size: 120%;
     }
 
     .button {
         width: 30vw;
     }
+}
 
-    /* Make the Google map wider */
-    .feature1 iframe {
-        width: 90vw;
-        height: 90vw;
-        /* TODO make the font larger in google map 
+/* Make the Google map and calendar fill the width */
+.feature iframe {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    /* TODO make the font larger in google map 
 		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
-    }
+}
 
-    #footer {
-        display: flex;
-        flex-direction: column;
-    }
-
-    #footer .impression {
-        flex: 1;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        min-width: 95vw;
-        width: 95vw;
-        padding: 15px;
-        border-style: solid none none none;
-    }
+/* Make header font larger */
+.feature h2 {
+    font-size: 120%;
 }
