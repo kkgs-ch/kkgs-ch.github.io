@@ -24,11 +24,6 @@
     border-style: none none solid none;
 }
 
-/* Make header font larger */
-.feature h2 {
-    font-size: 120%;
-}
-
 /* 성당소개 표 스타일 */
 #homepage_info dt {
     padding-top: 10px;
