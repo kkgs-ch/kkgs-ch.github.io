@@ -44,16 +44,16 @@
     }
 
     :link {
-        color: #0000EE;
+        color: #0f81d2;
     }
 
     :visited {
-        color: #551A8B;
+        color: #68339a;
     }
 
     :link:active,
     :visited:active {
-        color: #FF0000;
+        color: #e96b6b;
     }
 
     :link,
