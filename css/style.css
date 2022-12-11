@@ -98,3 +98,7 @@
 .feature h2 {
     font-size: 120%;
 }
+
+#footer .feature {
+    font-size: 80%;
+}
