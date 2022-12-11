@@ -1,9 +1,16 @@
+.header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    width: 50vw;
+    width: 70%;
 }
 
 .banner {
@@ -11,7 +18,7 @@
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    width: 70vw;
+    width: 90%;
 }
 
 .button {
@@ -74,12 +81,16 @@
 /* For mobile devices */
 @media (max-device-width: 957px) {
 
+    .header {
+        width: 90%;
+    }
+
     .logo {
-        width: 80vw;
+        width: 80%;
     }
 
     .banner {
-        width: 95vw;
+        width: 95%;
     }
 
     /* Increase font size */
