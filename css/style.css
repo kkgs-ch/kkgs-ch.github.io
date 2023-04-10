@@ -114,9 +114,16 @@ div {word-break:keep-all;}
 
 
 /* Make the Google map and calendar fill the width */
+.instagram-media {
+    width: 100%;
+    /* aspect-ratio: 4 / 3; */
+    /* TODO make the font larger in google map 
+		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
+}
+
 .feature .instagram-media {
     width: 100%;
-    aspect-ratio: 4 / 3;
+    /* aspect-ratio: 4 / 3; */
     /* TODO make the font larger in google map 
 		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
 }
