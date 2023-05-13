@@ -2,9 +2,7 @@
 
 div {
     font-family: 'Noto Serif KR', serif;
-    word-break: keep-all;
-    text-align: justify;
-    text-justify: inter-word;
+    word-break: keep-all; 
 }
 
 .logo {
