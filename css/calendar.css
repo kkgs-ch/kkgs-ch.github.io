@@ -1,152 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
-
-div {
-font-family: 'Noto Serif KR', serif;
-
-}
-
-div {word-break:keep-all;}
-
-
-.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 20px;
-    width: 50vw;
-}
-
-.banner {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 20px;
-    width: 70vw;
-}
-
-.button {
-    width: 13vw;
-}
-
-.box {
-    display: flex;
-    flex-direction: row;
-}
-
-.box .feature {
-    flex: 1;
-    display: block;
-    min-width: 28vw;
-    width: 31vw;
-    padding: 15px;
-    border-style: none none solid none;
-}
-
-/* 성당소개 표 스타일 */
-#homepage_info dt {
-    padding-top: 10px;
-    font-weight: bold;
-}
-
-#footer .feature p {
-    text-align: center
-}
-
-@media (prefers-color-scheme: dark) {
-
-    /* Re-assign previous variables */
-    body {
-        color: #cccccc;
-        background-color: black;
-        text-decoration: none;
+/* https://www.mpking.com/2021/04/making-google-calendar-embeddable.html */
+.responsiveCal {
+    position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
     }
-
-    :link {
-        color: #0f81d2;
+     
+    .responsiveCal iframe {
+    position: absolute; top:0; left: 0; width: 100%; height: 100%;
     }
-
-    :visited {
-        color: #754f98;
+    
+    @media all and (min-width: 768px) {
+        .deskContent {display:block;}
+        .phoneContent {display:none;}
     }
-
-    :link:active,
-    :visited:active {
-        color: #e96b6b;
+    
+    @media all and (max-width: 767px) {
+        .deskContent {display:none;}
+        .phoneContent {display:block;}
     }
-
-    :link,
-    :visited {
-        cursor: pointer;
-        text-decoration: none;
-    }
-}
-
-/* For mobile devices */
-@media (max-device-width: 957px) {
-
-    .logo {
-        width: 80vw;
-    }
-
-    .banner {
-        width: 95vw;
-    }
-
-    /* Increase font size */
-    body {
-        font-size: 5vw;
-    }
-
-    .box {
-        flex-direction: column
-    }
-
-    /* Arrange paragraphs vertically, add border and padding. Make font larger */
-    .box .feature {
-        min-width: 95vw;
-        width: 95vw;
-    }
-
-    .button {
-        width: 30vw;
-    }
-
-    /* Make the Google map and calendar fill the width */
-    .instagram-media {
-        width: 100%;
-        /* aspect-ratio: 4 / 3; */
-        /* TODO make the font larger in google map 
-            * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
-    }
-}
-
-
-/* Make the Google map and calendar fill the width */
-.instagram-media {
-    width: 100%;
-    /* aspect-ratio: 4 / 3; */
-    /* TODO make the font larger in google map 
-		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
-}
-
-.feature .instagram-media {
-    width: 100%;
-    /* aspect-ratio: 4 / 3; */
-    /* TODO make the font larger in google map 
-		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
-}
-.feature iframe {
-    width: 100%;
-    aspect-ratio: 4 / 3;
-    /* TODO make the font larger in google map 
-		 * https://developers.google.com/maps/documentation/maps-static/start might need API_KEY*/
-}
-
-/* Make header font larger */
-.feature h2 {
-    font-size: 120%;
-}
-
-#footer .feature {
-    font-size: 80%;
-}
