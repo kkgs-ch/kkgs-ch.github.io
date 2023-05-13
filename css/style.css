@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
 
 div {
-font-family: 'Noto Serif KR', serif;
-
+    font-family: 'Noto Serif KR', serif;
+    word-break: keep-all;
+    text-align: justify;
+    text-justify: inter-word;
 }
-
-div {word-break:keep-all;}
-
 
 .logo {
     display: block;
@@ -14,14 +13,6 @@ div {word-break:keep-all;}
     margin-right: auto;
     padding-bottom: 20px;
     width: 50vw;
-}
-
-.banner {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 20px;
-    width: 70vw;
 }
 
 .button {
@@ -88,10 +79,6 @@ div {word-break:keep-all;}
         width: 80vw;
     }
 
-    .banner {
-        width: 95vw;
-    }
-
     /* Increase font size */
     body {
         font-size: 5vw;
@@ -150,19 +137,4 @@ div {word-break:keep-all;}
 #footer .feature {
     font-size: 80%;
 }
-
-/* https://www.labnol.org/internet/embed-responsive-google-maps/28333/ */
-
-.google-maps {
-    position: relative;
-    padding-bottom: 75%;  
-    height: 0;
-    overflow: hidden;
-  }
-  .google-maps iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-  }
+ 
