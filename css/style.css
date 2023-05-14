@@ -5,14 +5,19 @@ div {
     word-break: keep-all; 
 }
 
-.logo {
+.kkgs-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    width: 50vw;
+    width: 70vw;
 }
 
+.twitter-timeline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
 .button {
     width: 13vw;
 }
@@ -73,10 +78,13 @@ div {
 /* For mobile devices */
 @media (max-device-width: 957px) {
 
-    .logo {
-        width: 80vw;
+    .kkgs-logo {
+        width: 95vw;
     }
 
+#twitter-container {
+    width: 95vw;
+}
     /* Increase font size */
     body {
         font-size: 5vw;
