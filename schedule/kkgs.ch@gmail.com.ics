@@ -24,362 +24,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20221211T150000
-DTEND;TZID=Europe/Zurich:20221211T173000
-RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=SU
-EXDATE;TZID=Europe/Zurich:20230305T150000
-EXDATE;TZID=Europe/Zurich:20230319T150000
-EXDATE;TZID=Europe/Zurich:20230430T150000
-EXDATE;TZID=Europe/Zurich:20230723T150000
-EXDATE;TZID=Europe/Zurich:20230806T150000
-EXDATE;TZID=Europe/Zurich:20230820T150000
-EXDATE;TZID=Europe/Zurich:20230903T150000
-EXDATE;TZID=Europe/Zurich:20230917T150000
-EXDATE;TZID=Europe/Zurich:20231015T150000
-EXDATE;TZID=Europe/Zurich:20231029T150000
-EXDATE;TZID=Europe/Zurich:20231112T150000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T152336Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20221211T150000
-DTEND;TZID=Europe/Zurich:20221211T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20221211T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T152357Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:대림 Advent - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20221225T150000
-DTEND;TZID=Europe/Zurich:20221225T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20221225T150000
-CREATED:20221129T152228Z
-DESCRIPTION:기타사항: 성탄행사&nbsp\;<br><br><html-blob>미사 Mass 3pm:<br><br>Katholi
- sche Pfarrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href=
- "https://goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NH
- T9</a><br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgässc
- hen 26\, 8004 Zürich<br></span><a href="https://goo.gl/maps/fd1qAG7rrh8WuPg
- g7">https://goo.gl/maps/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a 
- href="https://www.kkgs.ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안
- 토니오<br>+41 079 204 2352<br><a href="mailto:theoantlee@gmail.com">theoantlee
- @gmail.com</a></html-blob>
-LAST-MODIFIED:20221129T152449Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:주님성탄대축일미사 Christmas mass - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20221224T150000
-DTEND;TZID=Europe/Zurich:20221224T163000
-RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230106T225959Z;INTERVAL=2;BYDAY=SA
-DTSTAMP:20230627T230912Z
-UID:7c4jn0i97msjs0k0r5s5889i0g@google.com
-CREATED:20221129T152603Z
-DESCRIPTION:<html-blob>기타사항: 성탄행사&nbsp\;<br><br><u></u>미사 Mass 3pm:<br><br>
- Katholische Pfarrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zürich<br><
- a href="https://goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxU
- zkCC9NHT9</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">http
- s://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a hr
- ef="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a><u></u></html-blob
- >
-LAST-MODIFIED:20221129T152651Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:성탄전야합동미사 Christmas eve mass - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230101T150000
-DTEND;TZID=Europe/Zurich:20230101T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230108T150000
-CREATED:20221129T152228Z
-DESCRIPTION:기타사항: 1월 8일 미사 없습니다.<br><br><html-blob>미사 Mass 3pm:<br><br>Kath
- olische Pfarrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a hr
- ef="https://goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC
- 9NHT9</a><br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgä
- sschen 26\, 8004 Zürich<br></span><a href="https://goo.gl/maps/fd1qAG7rrh8W
- uPgg7">https://goo.gl/maps/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br>
- <a href="https://www.kkgs.ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영
- 덕 안토니오<br>+41 079 204 2352<br><a href="mailto:theoantlee@gmail.com">theoant
- lee@gmail.com</a></html-blob>
-LAST-MODIFIED:20221129T152822Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:천주의 모친 성모마리아\, 설 Saint Mary\, New Year - 한인미사 Catholic mass in Kore
- an
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230122T150000
-DTEND;TZID=Europe/Zurich:20230122T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230122T150000
-CREATED:20221129T152228Z
-DESCRIPTION:<html-blob>기타사항: 위령미사<br></html-blob><br><html-blob><br></html-
- blob><br><html-blob>미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und P
- aul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5Qx
- UzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 
- Meal after Mass:<br>취리히 한인성당<br><span>Werdgässchen 26\, 8004 Zürich<br></sp
- an><a href="https://goo.gl/maps/fd1qAG7rrh8WuPgg7">https://goo.gl/maps/fd1q
- AG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">
- https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><
- a href="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a></html-blob>
-LAST-MODIFIED:20221129T152856Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:설 New Year's Day - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230312T150000
-DTEND;TZID=Europe/Zurich:20230312T173000
-RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230325T225959Z;INTERVAL=2;BYDAY=SU
-DTSTAMP:20230627T230912Z
-UID:4h6ordiligqr870m5topp16n9f@google.com
-CREATED:20221129T153059Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://www.google.com/url?q=https:
- //goo.gl/maps/AseY5QxUzkCC9NHT9&amp\;sa=D&amp\;source=calendar&amp\;usd=2&a
- mp\;usg=AOvVaw0Ur55GSbRYh4u80vlLSNhu" target="_blank">https://goo.gl/maps/A
- seY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><
- span>Werdgässchen 26\, 8004 Zürich<br></span><a href="https://www.google.co
- m/url?q=https://goo.gl/maps/fd1qAG7rrh8WuPgg7&amp\;sa=D&amp\;source=calenda
- r&amp\;usd=2&amp\;usg=AOvVaw1xLiSMUtC3CGNvMNjXSX8_" target="_blank">https:/
- /goo.gl/maps/fd1qAG7rrh8WuPgg7</a> <br><br>공식 홈페이지:<br><a href="https://www
- .google.com/url?q=https://www.kkgs.ch/&amp\;sa=D&amp\;source=calendar&amp\;
- usd=2&amp\;usg=AOvVaw1VcvuVHT81DF_2bWeHZhFb" target="_blank">https://www.kk
- gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
- :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20221129T153213Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:사순 Lent - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230409T150000
-DTEND;TZID=Europe/Zurich:20230409T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230402T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T153304Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:부활대축일 Easter - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230528T150000
-DTEND;TZID=Europe/Zurich:20230528T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230528T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T153502Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:성령강림대축일 Whitsun - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230625T150000
-DTEND;TZID=Europe/Zurich:20230625T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230625T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T153732Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230514T150000
-DTEND;TZID=Europe/Zurich:20230514T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230514T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T153805Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:부활 Easter - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230423T150000
-DTEND;TZID=Europe/Zurich:20230423T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230416T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T153819Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:부활 Easter - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230702
-DTSTAMP:20230627T230912Z
-UID:27fcq948uestbhqjo2tvum7s5v@google.com
-CREATED:20221129T154050Z
-LAST-MODIFIED:20221129T154050Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:7월 미사는 홀수 주일에 거행됩니다
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230901
-DTEND;VALUE=DATE:20230902
-DTSTAMP:20230627T230912Z
-UID:3cq3g2dmnr54k97ojmtc679icl@google.com
-CREATED:20221129T154155Z
-LAST-MODIFIED:20221129T154155Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:9월 24일 미사 없습니다
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20231001T150000
-DTEND;TZID=Europe/Zurich:20231001T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20231001T150000
-CREATED:20221129T152228Z
-DESCRIPTION:기타사항: 위령미사<br><br><html-blob>미사 Mass 3pm:<br><br>Katholische Pf
- arrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https:
- //goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><
- br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgässchen 26\
- , 8004 Zürich<br></span><a href="https://goo.gl/maps/fd1qAG7rrh8WuPgg7">htt
- ps://goo.gl/maps/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="h
- ttps://www.kkgs.ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>
- +41 079 204 2352<br><a href="mailto:theoantlee@gmail.com">theoantlee@gmail.
- com</a></html-blob>
-LAST-MODIFIED:20221129T154303Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:한가위대축일 - Korean Thanksgiving 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:73l665btqcd5lfj9daks7kqb0h@google.com
 CREATED:20221129T154312Z
-LAST-MODIFIED:20221129T154312Z
+LAST-MODIFIED:20230627T232137Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:위령미사
@@ -388,10 +38,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231105
 DTEND;VALUE=DATE:20231106
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:5c4hk6am2mfudrhd8hfhdmlq6q@google.com
 CREATED:20221129T154332Z
-LAST-MODIFIED:20221129T154332Z
+LAST-MODIFIED:20230627T232137Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:총회준비 사목회
@@ -400,94 +50,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231126
 DTEND;VALUE=DATE:20231127
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:1ipr2l8gqbk6mn2bv9svot7g4r@google.com
 CREATED:20221129T154337Z
-LAST-MODIFIED:20221129T154337Z
+LAST-MODIFIED:20230627T232137Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:정기총회/재정보고
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20231126T150000
-DTEND;TZID=Europe/Zurich:20231126T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20231126T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T154408Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:그리스도왕 대축일 Feast of Christ the King - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20231210T150000
-DTEND;TZID=Europe/Zurich:20231210T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20231210T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T154557Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:대림 Advent - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20231225T150000
-DTEND;TZID=Europe/Zurich:20231225T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20231224T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20221129T154657Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:주님성탄대축일미사 Christmas - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231225
 DTEND;VALUE=DATE:20231226
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:77v7qrnq54rnglkit43q5o7is0@google.com
 CREATED:20221129T154702Z
-LAST-MODIFIED:20221129T154702Z
+LAST-MODIFIED:20230627T232139Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:성탄행사
@@ -496,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240101T140000Z
 DTEND:20240101T163000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:31kv5nbb54ae8uqg2vf0fbsl22@google.com
 CREATED:20221129T154803Z
 DESCRIPTION:기타사항: 1월 8일 미사 없습니다.<br><br><u></u>미사 Mass 3pm:<br><br>Katholis
@@ -513,9 +91,10 @@ DESCRIPTION:기타사항: 1월 8일 미사 없습니다.<br><br><u></u>미사 Ma
  hFb" target="_blank">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>
  +41 079 204 2352<br><a href="mailto:theoantlee@gmail.com" target="_blank">t
  heoantlee@gmail.com</a><u></u>
-LAST-MODIFIED:20221129T154803Z
+LAST-MODIFIED:20230627T232139Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:천주의 모친 성모마리아\, 설 Saint Mary\, New Year - 한인미사 Catholic mass in Kore
@@ -523,75 +102,9 @@ SUMMARY:천주의 모친 성모마리아\, 설 Saint Mary\, New Year - 한인미
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20221224T220000
-DTEND;TZID=Europe/Zurich:20221224T233000
-DTSTAMP:20230627T230912Z
-UID:7c4jn0i97msjs0k0r5s5889i0g@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20221224T150000
-CREATED:20221129T152603Z
-DESCRIPTION:<html-blob><u></u>기타사항: 성탄행사&nbsp\;<br><br><u></u>미사 Mass 10pm:
- <br><br>Katholische Pfarrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zür
- ich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/
- AseY5QxUzkCC9NHT9</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.c
- h/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<
- br><a href="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a><u></u><u>
- </u></html-blob>
-LAST-MODIFIED:20221129T154905Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:성탄전야합동미사 Christmas eve mass - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20230408T190000Z
-DTEND:20230408T203000Z
-DTSTAMP:20230627T230912Z
-UID:4p52ckm39viosrooos5fod4olr@google.com
-CREATED:20221129T155125Z
-DESCRIPTION:<html-blob>미사 Mass 9pm:<br><br>Katholische Pfarrei St. Peter un
- d Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY
- 5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a>&nbsp\;<br><br>공식 홈
- 페이지:<br><a href="https://www.kkgs.ch/">https://www.kkgs.ch/</a><br><br>주임신부
- 님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto:theoantlee@gmail.com"
- >theoantlee@gmail.com</a><u></u><u></u><u></u></html-blob>
-LAST-MODIFIED:20221129T155125Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:부활전야미사 합동미사 Easter Vigil Mass - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230702T093000
-DTEND;TZID=Europe/Zurich:20230702T120000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230709T150000
-CREATED:20221129T152228Z
-DESCRIPTION:<html-blob>미사 Mass 9:30pm:<br><br>Katholische Pfarrei St. Peter
-  und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/A
- seY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/
- 식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgässchen 26\, 8004 Zürich<b
- r></span><a href="https://goo.gl/maps/fd1qAG7rrh8WuPgg7">https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs
- .ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 235
- 2<br><a href="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a></html-b
- lob>
-LAST-MODIFIED:20221129T155248Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:주보성인축일행사 Feast of patron saints - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20231224T210000Z
 DTEND:20231224T223000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:3oai39ipghol6pgar1out9guul@google.com
 CREATED:20221129T154933Z
 DESCRIPTION:<u></u><u></u>기타사항: 성탄행사 <br><br><u></u>미사 Mass 10pm:<br><br>Ka
@@ -604,154 +117,26 @@ DESCRIPTION:<u></u><u></u>기타사항: 성탄행사 <br><br><u></u>미사 Mass
  get="_blank">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 
  204 2352<br><a href="mailto:theoantlee@gmail.com" target="_blank">theoantle
  e@gmail.com</a><u></u><u></u><u></u>
-LAST-MODIFIED:20221129T155349Z
+LAST-MODIFIED:20230627T232140Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:성탄전야합동미사 Christmas eve mass - 한인미사 Catholic mass in Korean
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20230326T130000Z
-DTEND:20230326T153000Z
-DTSTAMP:20230627T230912Z
-UID:3d1aeuuo8n22elgg81jioq8j20@google.com
-CREATED:20221129T155533Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://www.google.com/url?q=https:
- //goo.gl/maps/AseY5QxUzkCC9NHT9&amp\;sa=D&amp\;source=calendar&amp\;usd=2&a
- mp\;usg=AOvVaw0Ur55GSbRYh4u80vlLSNhu" target="_blank">https://goo.gl/maps/A
- seY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><
- span>Werdgässchen 26\, 8004 Zürich<br></span><a href="https://www.google.co
- m/url?q=https://goo.gl/maps/fd1qAG7rrh8WuPgg7&amp\;sa=D&amp\;source=calenda
- r&amp\;usd=2&amp\;usg=AOvVaw1xLiSMUtC3CGNvMNjXSX8_" target="_blank">https:/
- /goo.gl/maps/fd1qAG7rrh8WuPgg7</a> <br><br>공식 홈페이지:<br><a href="https://www
- .google.com/url?q=https://www.kkgs.ch/&amp\;sa=D&amp\;source=calendar&amp\;
- usd=2&amp\;usg=AOvVaw1VcvuVHT81DF_2bWeHZhFb" target="_blank">https://www.kk
- gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
- :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20221129T155533Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:사순 Lent - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230212T150000
-DTEND;TZID=Europe/Zurich:20230212T173000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230205T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20230203T091130Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230226T150000
-DTEND;TZID=Europe/Zurich:20230226T173000
-DTSTAMP:20230627T230912Z
-ORGANIZER:mailto:kkgs.ch@gmail.com
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yeonwo
- on.j@gmail.com;X-NUM-GUESTS=0:mailto:yeonwoon.j@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;X-NUM-GUE
- STS=0:mailto:kkgs.ch@gmail.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230219T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
- erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
- T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
- er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
- ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
- s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
- G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
- ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
- eoantlee@gmail.com
-LAST-MODIFIED:20230205T125845Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230318
-DTEND;VALUE=DATE:20230319
-DTSTAMP:20230627T230912Z
-ORGANIZER:mailto:kkgs.ch@gmail.com
-UID:4vvj80f3cvklm039kcov1ja2go@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
- onwoon.j@gmail.com;X-NUM-GUESTS=0:mailto:yeonwoon.j@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;X-NUM-GUE
- STS=0:mailto:kkgs.ch@gmail.com
-CREATED:20221129T153022Z
-LAST-MODIFIED:20230313T160223Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:사순일일피정 9-12
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230514
-DTEND;VALUE=DATE:20230515
-DTSTAMP:20230627T230912Z
-UID:21jbkq4jei5b6vd6nar4jq18bp@google.com
-CREATED:20221129T153518Z
-LAST-MODIFIED:20230513T080136Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Muttertag
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20230520T090000Z
-DTEND:20230520T130000Z
-DTSTAMP:20230627T230912Z
-UID:2a6csorgrneovg74eqpu4k0csf@google.com
-CREATED:20221129T153528Z
-DESCRIPTION:교육부 공지: 어린이피정 \n날짜: 5월20일 토요일 오전 \n11시 미사\, 12시 식사\, 이후 산책\n장소:
-  Kapelle Jonental\, Litzistrasse\, 8916 Jonen\nLitzi Restaurant\, Litzi 7\,
-  8916 Jonen\n주차: 식당 주차 가능
-LAST-MODIFIED:20230513T140651Z
-LOCATION:Kapelle Jonental\, Litzistrasse\, 8916 Jonen\, Switzerland
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:5월 어린이피정
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P0DT1H0M0S
-DESCRIPTION:This is an event reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231008
 DTEND;VALUE=DATE:20231011
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:0va9lc5n15q19uqd6s4e46sfq4@google.com
 CREATED:20230417T053649Z
 DESCRIPTION:10월 8-10일 Flüeli-Ranft의 Klausenhof
-LAST-MODIFIED:20230514T055950Z
+LAST-MODIFIED:20230627T232143Z
 LOCATION:Hotel Klausenhof Flueli-Ranft\, Melchtalerstrasse 25\, 6073 Flüeli
- -Ranft\, Switzerland
+ -Ranft\, Switzerland\, Hotel Klausenhof Flueli-Ranft\, Melchtalerstrasse 25
+ \, 6073 Flüeli-Ranft\, Switzerland
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:성인피정
@@ -760,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20231105T083000Z
 DTEND:20231105T110000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:4su394muul1uq6495sp5892sv6@google.com
 CREATED:20221129T154027Z
 DESCRIPTION:<u></u>미사 Mass 9:30am:<br><br>Katholische Pfarrei St. Peter und
@@ -771,37 +156,19 @@ DESCRIPTION:<u></u>미사 Mass 9:30am:<br><br>Katholische Pfarrei St. Peter und
  1qAG7rrh8WuPgg7</a> <br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">http
  s://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a hr
  ef="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a><u></u>
-LAST-MODIFIED:20230524T060211Z
+LAST-MODIFIED:20230627T232143Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Tag der Völker 합동미사 - Ordinary time - 한인미사 Catholic mass in Korean
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Zurich:20230611T150000
-DTEND;TZID=Europe/Zurich:20230611T160000
-DTSTAMP:20230627T230912Z
-UID:11gl853dp3efd56d0bv1i0h8fl@google.com
-RECURRENCE-ID;TZID=Europe/Zurich:20230611T150000
-CREATED:20221129T152228Z
-DESCRIPTION:미사 Mass 3pm:\n\nKatholische Pfarrei St. Peter und Paul\nWerdstr
- asse 63\, 8004 Zürich\nhttps://goo.gl/maps/AseY5QxUzkCC9NHT9 \n\n공식 홈페이지:\n
- https://www.kkgs.ch/\n\n주임신부님:\n이영덕 안토니오\n+41 079 204 2352\ntheoantlee@gmai
- l.com
-LAST-MODIFIED:20230606T140127Z
-LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:그리스도의 성체성혈 대축일 Corpus Christi - 한인미사 Catholic mass in Korean
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20230716T130000Z
 DTEND:20230716T153000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:1q0ur0q17irtfb11kq9dp67kfm@google.com
 CREATED:20230612T201111Z
 DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
@@ -817,9 +184,10 @@ DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
  usd=2&amp\;usg=AOvVaw2OWYDXC2Ea0oJIxDiUoOpt" target="_blank">https://www.kk
  gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
  :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20230612T201111Z
+LAST-MODIFIED:20230627T232144Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
@@ -828,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230730T130000Z
 DTEND:20230730T153000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:256aovb5kbv1ksqjtvhbojbq4m@google.com
 CREATED:20230612T201128Z
 DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
@@ -844,9 +212,10 @@ DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
  usd=2&amp\;usg=AOvVaw2OWYDXC2Ea0oJIxDiUoOpt" target="_blank">https://www.kk
  gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
  :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20230612T201128Z
+LAST-MODIFIED:20230627T232144Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
@@ -855,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230820T130000Z
 DTEND:20230820T153000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:67apm5hd68pddobjgg6nilslqa@google.com
 CREATED:20230612T201143Z
 DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
@@ -871,9 +240,10 @@ DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
  usd=2&amp\;usg=AOvVaw2OWYDXC2Ea0oJIxDiUoOpt" target="_blank">https://www.kk
  gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
  :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20230612T201143Z
+LAST-MODIFIED:20230627T232144Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
@@ -882,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20230910T130000Z
 DTEND:20230910T153000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:3q56n8pat2j375uls575scjnr9@google.com
 CREATED:20230612T201202Z
 DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
@@ -898,9 +268,10 @@ DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
  usd=2&amp\;usg=AOvVaw2OWYDXC2Ea0oJIxDiUoOpt" target="_blank">https://www.kk
  gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
  :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20230612T201202Z
+LAST-MODIFIED:20230627T232145Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
@@ -909,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20231022T130000Z
 DTEND:20231022T153000Z
-DTSTAMP:20230627T230912Z
+DTSTAMP:20230627T233632Z
 UID:7targfu82gv19nam54lg7d16r6@google.com
 CREATED:20230612T201237Z
 DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
@@ -925,12 +296,205 @@ DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
  usd=2&amp\;usg=AOvVaw2OWYDXC2Ea0oJIxDiUoOpt" target="_blank">https://www.kk
  gs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br><a href="mailto
  :theoantlee@gmail.com" target="_blank">theoantlee@gmail.com</a>
-LAST-MODIFIED:20230612T201237Z
+LAST-MODIFIED:20230627T232145Z
 LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
- ich\, Switzerland
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:연중 Ordinary time - 한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230627T233632Z
+UID:27fcq948uestbhqjo2tvum7s5v@google.com
+CREATED:20221129T154050Z
+LAST-MODIFIED:20230627T232252Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:7월 미사는 홀수 주일에 거행됩니다
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230902
+DTSTAMP:20230627T233632Z
+UID:3cq3g2dmnr54k97ojmtc679icl@google.com
+CREATED:20221129T154155Z
+LAST-MODIFIED:20230627T233222Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:9월 24일 미사 없습니다
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20221211T150000
+DTEND;TZID=Europe/Zurich:20221211T173000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20240106T225959Z;INTERVAL=2;BYDAY=SU
+EXDATE;TZID=Europe/Zurich:20221211T150000
+EXDATE;TZID=Europe/Zurich:20221225T150000
+EXDATE;TZID=Europe/Zurich:20230108T150000
+EXDATE;TZID=Europe/Zurich:20230122T150000
+EXDATE;TZID=Europe/Zurich:20230205T150000
+EXDATE;TZID=Europe/Zurich:20230219T150000
+EXDATE;TZID=Europe/Zurich:20230305T150000
+EXDATE;TZID=Europe/Zurich:20230319T150000
+EXDATE;TZID=Europe/Zurich:20230402T150000
+EXDATE;TZID=Europe/Zurich:20230416T150000
+EXDATE;TZID=Europe/Zurich:20230430T150000
+EXDATE;TZID=Europe/Zurich:20230514T150000
+EXDATE;TZID=Europe/Zurich:20230528T150000
+EXDATE;TZID=Europe/Zurich:20230611T150000
+EXDATE;TZID=Europe/Zurich:20230625T150000
+EXDATE;TZID=Europe/Zurich:20230723T150000
+EXDATE;TZID=Europe/Zurich:20230806T150000
+EXDATE;TZID=Europe/Zurich:20230820T150000
+EXDATE;TZID=Europe/Zurich:20230903T150000
+EXDATE;TZID=Europe/Zurich:20230917T150000
+EXDATE;TZID=Europe/Zurich:20231015T150000
+EXDATE;TZID=Europe/Zurich:20231029T150000
+EXDATE;TZID=Europe/Zurich:20231112T150000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+CREATED:20221129T152228Z
+DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
+ erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
+ T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
+ er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
+ ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
+ s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
+ G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
+ ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
+ eoantlee@gmail.com
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland\, Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63
+ \, 8004 Zürich\, Switzerland
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20230702T093000
+DTEND;TZID=Europe/Zurich:20230702T120000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+RECURRENCE-ID;TZID=Europe/Zurich:20230709T150000
+CREATED:20221129T152228Z
+DESCRIPTION:<html-blob>미사 Mass 9:30pm:<br><br>Katholische Pfarrei St. Peter
+  und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/A
+ seY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/
+ 식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgässchen 26\, 8004 Zürich<b
+ r></span><a href="https://goo.gl/maps/fd1qAG7rrh8WuPgg7">https://goo.gl/map
+ s/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs
+ .ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 235
+ 2<br><a href="mailto:theoantlee@gmail.com">theoantlee@gmail.com</a></html-b
+ lob>
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:주보성인축일행사 Feast of patron saints - 한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20231001T150000
+DTEND;TZID=Europe/Zurich:20231001T173000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+RECURRENCE-ID;TZID=Europe/Zurich:20231001T150000
+CREATED:20221129T152228Z
+DESCRIPTION:기타사항: 위령미사<br><br><html-blob>미사 Mass 3pm:<br><br>Katholische Pf
+ arrei St. Peter und Paul<br>Werdstrasse 63\, 8004 Zürich<br><a href="https:
+ //goo.gl/maps/AseY5QxUzkCC9NHT9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><
+ br><br>미사 후 친교/식사 장소 Meal after Mass:<br>취리히 한인성당<br><span>Werdgässchen 26\
+ , 8004 Zürich<br></span><a href="https://goo.gl/maps/fd1qAG7rrh8WuPgg7">htt
+ ps://goo.gl/maps/fd1qAG7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="h
+ ttps://www.kkgs.ch/">https://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>
+ +41 079 204 2352<br><a href="mailto:theoantlee@gmail.com">theoantlee@gmail.
+ com</a></html-blob>
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:한가위대축일 - Korean Thanksgiving 한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20231126T150000
+DTEND;TZID=Europe/Zurich:20231126T173000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+RECURRENCE-ID;TZID=Europe/Zurich:20231126T150000
+CREATED:20221129T152228Z
+DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
+ erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
+ T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
+ er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
+ ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
+ s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
+ G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
+ ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
+ eoantlee@gmail.com
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:그리스도왕 대축일 Feast of Christ the King - 한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20231210T150000
+DTEND;TZID=Europe/Zurich:20231210T173000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+RECURRENCE-ID;TZID=Europe/Zurich:20231210T150000
+CREATED:20221129T152228Z
+DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
+ erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
+ T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
+ er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
+ ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
+ s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
+ G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
+ ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
+ eoantlee@gmail.com
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:대림 Advent - 한인미사 Catholic mass in Korean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Zurich:20231225T150000
+DTEND;TZID=Europe/Zurich:20231225T173000
+DTSTAMP:20230627T233632Z
+UID:11gl853dp3efd56d0bv1i0h8fl@google.com
+RECURRENCE-ID;TZID=Europe/Zurich:20231224T150000
+CREATED:20221129T152228Z
+DESCRIPTION:미사 Mass 3pm:<br><br>Katholische Pfarrei St. Peter und Paul<br>W
+ erdstrasse 63\, 8004 Zürich<br><a href="https://goo.gl/maps/AseY5QxUzkCC9NH
+ T9">https://goo.gl/maps/AseY5QxUzkCC9NHT9</a><br><br>미사 후 친교/식사 장소 Meal aft
+ er Mass:<br>취리히 한인성당<br><span style="background-color: var(--textfield-surf
+ ace)\;">Werdgässchen 26\, 8004 Zürich<br></span><a href="https://goo.gl/map
+ s/fd1qAG7rrh8WuPgg7" id="ow727" __is_owner="true">https://goo.gl/maps/fd1qA
+ G7rrh8WuPgg7</a>&nbsp\;<br><br>공식 홈페이지:<br><a href="https://www.kkgs.ch/">h
+ ttps://www.kkgs.ch/</a><br><br>주임신부님:<br>이영덕 안토니오<br>+41 079 204 2352<br>th
+ eoantlee@gmail.com
+LAST-MODIFIED:20230627T233458Z
+LOCATION:Katholische Pfarrei St. Peter und Paul\, Werdstrasse 63\, 8004 Zür
+ ich\, Switzerland
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:주님성탄대축일미사 Christmas - 한인미사 Catholic mass in Korean
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
